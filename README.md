@@ -1,4 +1,3 @@
-# learn-js-frontend-masters-coures-
-learning JS from front end masters
-
- - [ ] do maps later
+# Learning JS and TS
+- [x] Frontend masters free JS course
+- [ ] 
